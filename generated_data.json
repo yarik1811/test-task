@@ -1,0 +1,200 @@
+[
+    {
+        "_id": "d756ad75-abba-4eeb-98bf-936099368582",
+        "birthday": "01.11.1977",
+        "language": "ru",
+        "gender": "f",
+        "avatar": "http://link.to/image",
+        "initials": {
+            "international": {
+                "name": "Natalia",
+                "secondName": "Arizherovna",
+                "surname": "Gamidova"
+            },
+            "original": {
+                "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+                "secondName": "\u0410\u0440\u0438\u0436\u0435\u0440\u043e\u0432\u043d\u0430",
+                "surname": "\u0413\u0430\u043c\u0438\u0434\u043e\u0432\u0430"
+            }
+        },
+        "documents": {
+            "ps": [
+                {
+                    "number": "XXXX XXXXXX"
+                }
+            ],
+            "psp": [
+                {
+                    "number": "XX-XX-XXXXXXXXX",
+                    "expireDate": 100500,
+                    "country": "RUS"
+                }
+            ]
+        },
+        "email": "example@example.com",
+        "phone": "+70000000000",
+        "address": {
+            "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+            "city": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+            "state": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439",
+            "address": "\u0443\u043b. \u041f\u0443\u0448\u043a\u0438\u043d\u0430, \u0434.1, \u043a\u0432. 1",
+            "zipCode": 350012
+        },
+        "status": {
+            "id": 842987349234,
+            "2cardNo": 9999999999,
+            "accNo": 10000000,
+            "level": "BASIC"
+        },
+        "channels": {
+            "email": {
+                "allowed": false,
+                "verified": false
+            },
+            "sms": {
+                "allowed": false,
+                "verified": true
+            },
+            "post": {
+                "allowed": false,
+                "verified": false
+            },
+            "phone": {
+                "allowed": true,
+                "verified": true
+            }
+        }
+    },
+    {
+        "_id": "2d1971c2-5c61-41fd-bc4f-769f7cf026e7",
+        "birthday": "01.11.1977",
+        "language": "ru",
+        "gender": "f",
+        "avatar": "http://link.to/image",
+        "initials": {
+            "international": {
+                "name": "Natalia",
+                "secondName": "Arizherovna",
+                "surname": "Gamidova"
+            },
+            "original": {
+                "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+                "secondName": "\u0410\u0440\u0438\u0436\u0435\u0440\u043e\u0432\u043d\u0430",
+                "surname": "\u0413\u0430\u043c\u0438\u0434\u043e\u0432\u0430"
+            }
+        },
+        "documents": {
+            "ps": [
+                {
+                    "number": "XXXX XXXXXX"
+                }
+            ],
+            "psp": [
+                {
+                    "number": "XX-XX-XXXXXXXXX",
+                    "expireDate": 100500,
+                    "country": "RUS"
+                }
+            ]
+        },
+        "email": "example@example.com",
+        "phone": "+70000000000",
+        "address": {
+            "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+            "city": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+            "state": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439",
+            "address": "\u0443\u043b. \u041f\u0443\u0448\u043a\u0438\u043d\u0430, \u0434.1, \u043a\u0432. 1",
+            "zipCode": 350012
+        },
+        "status": {
+            "id": 842987349234,
+            "2cardNo": 9999999999,
+            "accNo": 10000000,
+            "level": "BASIC"
+        },
+        "channels": {
+            "email": {
+                "allowed": false,
+                "verified": true
+            },
+            "sms": {
+                "allowed": false,
+                "verified": false
+            },
+            "post": {
+                "allowed": false,
+                "verified": false
+            },
+            "phone": {
+                "allowed": true,
+                "verified": false
+            }
+        }
+    },
+    {
+        "_id": "cca8c0ae-17bd-4015-a353-4cef884c389d",
+        "birthday": "01.11.1977",
+        "language": "ru",
+        "gender": "f",
+        "avatar": "http://link.to/image",
+        "initials": {
+            "international": {
+                "name": "Natalia",
+                "secondName": "Arizherovna",
+                "surname": "Gamidova"
+            },
+            "original": {
+                "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+                "secondName": "\u0410\u0440\u0438\u0436\u0435\u0440\u043e\u0432\u043d\u0430",
+                "surname": "\u0413\u0430\u043c\u0438\u0434\u043e\u0432\u0430"
+            }
+        },
+        "documents": {
+            "ps": [
+                {
+                    "number": "XXXX XXXXXX"
+                }
+            ],
+            "psp": [
+                {
+                    "number": "XX-XX-XXXXXXXXX",
+                    "expireDate": 100500,
+                    "country": "RUS"
+                }
+            ]
+        },
+        "email": "example@example.com",
+        "phone": "+70000000000",
+        "address": {
+            "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+            "city": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+            "state": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439",
+            "address": "\u0443\u043b. \u041f\u0443\u0448\u043a\u0438\u043d\u0430, \u0434.1, \u043a\u0432. 1",
+            "zipCode": 350012
+        },
+        "status": {
+            "id": 842987349234,
+            "2cardNo": 9999999999,
+            "accNo": 10000000,
+            "level": "BASIC"
+        },
+        "channels": {
+            "email": {
+                "allowed": false,
+                "verified": true
+            },
+            "sms": {
+                "allowed": false,
+                "verified": true
+            },
+            "post": {
+                "allowed": false,
+                "verified": false
+            },
+            "phone": {
+                "allowed": true,
+                "verified": false
+            }
+        }
+    }
+]
